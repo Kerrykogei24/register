@@ -1,0 +1,11 @@
+{
+    "username": "<Your Email>",
+    "email": "<Your Email>",
+    "password1": "<Your password>",
+    "password2": "<Your password>",
+    "referral_code": "",
+    "phone_number": "<Your Phone Number>",
+    "full_name": "<Yout Full Name >",
+    "device_details": { "device": "Dummy" },
+    "location": "Dummy"
+}
