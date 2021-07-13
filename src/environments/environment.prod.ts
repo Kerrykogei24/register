@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  apiUrl:'http://fullstack-role.busara.io'
+  apiUrl:'https://fullstack-role.busara.io'
 
 };

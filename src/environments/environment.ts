@@ -4,7 +4,7 @@
 
 export const environment = {
   production: false,
-  apiUrl:'http://fullstack-role.busara.io/api/v1/users/registration/'
+  apiUrl:'https://fullstack-role.busara.io'
 };
 
 /*
